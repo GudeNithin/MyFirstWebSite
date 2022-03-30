@@ -1,0 +1,26 @@
+*{
+	font-family:font-family: 'Smokum', cursive; ;
+}
+.services_off
+{
+font-family:Bahnschrift SemiBold ;
+padding:25px ;
+text-align:center;
+}
+.nav-link
+{
+	font-family: Cascadia Code;
+	padding:10px;
+}
+button
+{
+	padding:20px ;
+	margin-top:100px;
+}
+footer
+{
+	background-color: black;
+	color: #FFFFFF;
+	padding:20px ;
+	margin-top: 50px;
+}
